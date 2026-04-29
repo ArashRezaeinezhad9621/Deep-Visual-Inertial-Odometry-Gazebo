@@ -79,3 +79,12 @@ The proposed architecture combines spatial and temporal learning:
 ## 📊 Results
 
 The proposed method was evaluated against baseline approaches such as VINet.
+<table align="center">
+  <tr>
+    <td><img src="Images/Trajectories.png" width="750"/></td>
+  </tr>
+  <tr>
+    <td><img src="Images/Results_Tables.png" width="750"/></td>
+  </tr>
+</table>
+
