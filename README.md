@@ -91,3 +91,17 @@ The proposed method was evaluated against baseline approaches such as VINet.
     <td align="center"><img src="Images/Results_Tables.png" width="600"/></td>
   </tr>
 </table>
+
+## 🔮 Future Work
+- Human detection and safety system
+- Autonomous docking and charging
+- Improved performance in low-feature environments
+- Depth camera integration (e.g., RealSense)
+- Real-world dataset validation
+- Fully autonomous navigation
+
+## 👤 Author
+
+Arash Rezaeinezhad
+M.Sc. in Electronics
+Deep Learning & Robotics Enthusiast
