@@ -6,7 +6,9 @@ A deep learning-based framework for visual-inertial odometry (VIO) using a custo
 
 ## 🧠 Overview
 
+<p align="justify">
 Visual-Inertial Odometry (VIO) plays a critical role in autonomous navigation. Traditional methods often struggle in dynamic environments and require careful manual tuning.
+</p>
 
 In this project, we propose a learning-based VIO system that:
 
