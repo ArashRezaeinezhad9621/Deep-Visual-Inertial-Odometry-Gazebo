@@ -93,7 +93,6 @@ The proposed method was evaluated against baseline approaches such as VINet.
 </table>
 
 ## 🔮 Future Work
-- Future Work
 - Integrate Kalman filtering for improved heading accuracy
 - Extend to multi-sensor fusion (e.g., GPS, magnetometer)
 - Validate on real-world datasets (Sim-to-Real transfer)
