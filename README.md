@@ -93,12 +93,12 @@ The proposed method was evaluated against baseline approaches such as VINet.
 </table>
 
 ## 🔮 Future Work
-- Human detection and safety system
-- Autonomous docking and charging
-- Improved performance in low-feature environments
-- Depth camera integration (e.g., RealSense)
-- Real-world dataset validation
-- Fully autonomous navigation
+- Future Work
+- Integrate Kalman filtering for improved heading accuracy
+- Extend to multi-sensor fusion (e.g., GPS, magnetometer)
+- Validate on real-world datasets (Sim-to-Real transfer)
+- Improve robustness in challenging environments
+- Expand dataset diversity and complexity
 
 ## 👤 Author
 
