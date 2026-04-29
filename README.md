@@ -1,1 +1,41 @@
-Hi
+# 🚀 Deep Visual-Inertial Odometry using Gazebo Simulation
+
+A deep learning-based framework for visual-inertial odometry (VIO) using a custom dataset generated in Gazebo. This project integrates monocular images and IMU data with a CNN-RNN architecture to estimate robot trajectory with improved accuracy.
+
+## 🧠 Overview
+
+Visual-Inertial Odometry (VIO) plays a critical role in autonomous navigation. Traditional methods often struggle in dynamic environments and require careful manual tuning.
+
+In this project, we propose a learning-based VIO system that:
+
+- Uses a custom dataset generated in Gazebo
+- Extracts spatial features using a VGG16-based CNN
+- Learns temporal dependencies using LSTM / ConvLSTM
+- Fuses image and IMU data
+- Achieves significant improvement in trajectory estimation accuracy
+
+📉 **Result**: Mean Squared Error (MSE) improved from **4.99 → 0.63**
+
+
+## 🗂 Dataset (Gazebo Simulation)
+
+A custom dataset was created using the Gazebo simulator to ensure:
+
+Controlled environment
+High similarity between training and testing data
+Flexible sensor integration
+🔧 Sensors Used
+Monocular Camera
+IMU (Accelerometer + Gyroscope)
+📦 Dataset Includes
+Image sequences
+IMU measurements
+Ground truth trajectories
+
+📌 Add your dataset sample image below:
+
+![Dataset Sample](media/dataset_sample.png)
+
+📌 Add your simulation GIF here:
+
+![Gazebo Simulation](media/gazebo_simulation.gif)
