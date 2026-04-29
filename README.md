@@ -38,6 +38,6 @@ A custom dataset was created using the Gazebo simulator to ensure:
 - IMU measurements
 - Ground truth trajectories
 
-![Dataset Sample](media/dataset_sample.png)
+![Dataset Sample](media/Environment.png)
+![Gazebo Simulation](media/Sample_Images.png)
 
-![Gazebo Simulation](media/gazebo_simulation.gif)
