@@ -83,8 +83,11 @@ The proposed method was evaluated against baseline approaches such as VINet.
   <tr>
     <td><img src="Images/Trajectories.png" width="750"/></td>
   </tr>
+</table>
+
+
+<table align="center">
   <tr>
     <td align="center"><img src="Images/Results_Tables.png" width="600"/></td>
   </tr>
 </table>
-
