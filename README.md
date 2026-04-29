@@ -47,10 +47,10 @@ A custom dataset was created using the Gazebo simulator to ensure:
 
 <table align="center">
   <tr>
-    <td><img src="Images/Environment.png"/></td>
+    <td><img src="Images/Environment.png" width="750"/></td>
   </tr>
   <tr>
-    <td><img src="Images/Sample_Images.png"/></td>
+    <td><img src="Images/Sample_Images.png" width="750"/></td>
   </tr>
 </table>
 <br clear="left"/>
