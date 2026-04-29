@@ -18,6 +18,13 @@ In this project, we propose a learning-based VIO system that:
 - Fuses image and IMU data
 - Achieves significant improvement in trajectory estimation accuracy
 
+<table align="center">
+  <tr>
+    <td><img src="Images/Dataset_Thesis.gif"/></td>
+  </tr>
+</table>
+<br clear="left"/>
+
 📉 **Result**: Mean Squared Error (MSE) improved from **4.99 → 0.63**
 
 
@@ -38,6 +45,12 @@ A custom dataset was created using the Gazebo simulator to ensure:
 - IMU measurements
 - Ground truth trajectories
 
-![Dataset Sample](media/Environment.png)
-![Gazebo Simulation](media/Sample_Images.png)
-
+<table align="center">
+  <tr>
+    <td><img src="Images/Environment.png"/></td>
+  </tr>
+  <tr>
+    <td><img src="Images/Sample_Images.png"/></td>
+  </tr>
+</table>
+<br clear="left"/>
