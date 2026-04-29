@@ -54,3 +54,30 @@ A custom dataset was created using the Gazebo simulator to ensure:
   </tr>
 </table>
 <br clear="left"/>
+
+
+## 🏗 Methodology
+
+The proposed architecture combines spatial and temporal learning:
+
+<table align="center">
+  <tr>
+    <td><img src="Images/Proposed_Networks.png" width="750"/></td>
+  </tr>
+</table>
+<br clear="left"/>
+
+### 🔹 Feature Extraction
+Pretrained VGG16 used to extract visual features from consecutive frames
+### 🔹 Motion Representation
+Features from two frames are combined to capture motion dynamics
+### 🔹 Temporal Modeling
+ConvLSTM + LSTM layers learn temporal dependencies
+### 🔹 Output
+7-dimensional vector:
+3D position (x, y, z)
+4D orientation (quaternion)
+
+## 📊 Results
+
+The proposed method was evaluated against baseline approaches such as VINet.
