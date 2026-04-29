@@ -55,7 +55,6 @@ A custom dataset was created using the Gazebo simulator to ensure:
 </table>
 <br clear="left"/>
 
-
 ## 🏗 Methodology
 
 The proposed architecture combines spatial and temporal learning:
@@ -65,7 +64,6 @@ The proposed architecture combines spatial and temporal learning:
     <td><img src="Images/Proposed_Networks.png" width="750"/></td>
   </tr>
 </table>
-<br clear="left"/>
 
 ### 🔹 Feature Extraction
 - Pretrained VGG16 used to extract visual features from consecutive frames
