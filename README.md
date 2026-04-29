@@ -101,6 +101,6 @@ The proposed method was evaluated against baseline approaches such as VINet.
 
 ## 👤 Author
 
-Arash Rezaeinezhad
-M.Sc. in Electronics
-Deep Learning & Robotics Enthusiast
+Arash Rezaeinezhad  
+M.Sc. in Electronics  
+Deep Learning & Robotics Enthusiast  
