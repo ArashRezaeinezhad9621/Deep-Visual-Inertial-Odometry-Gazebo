@@ -68,15 +68,15 @@ The proposed architecture combines spatial and temporal learning:
 <br clear="left"/>
 
 ### 🔹 Feature Extraction
-Pretrained VGG16 used to extract visual features from consecutive frames
+- Pretrained VGG16 used to extract visual features from consecutive frames
 ### 🔹 Motion Representation
-Features from two frames are combined to capture motion dynamics
+- Features from two frames are combined to capture motion dynamics
 ### 🔹 Temporal Modeling
-ConvLSTM + LSTM layers learn temporal dependencies
+- ConvLSTM + LSTM layers learn temporal dependencies
 ### 🔹 Output
-7-dimensional vector:
-3D position (x, y, z)
-4D orientation (quaternion)
+- 7-dimensional vector:
+- 3D position (x, y, z)
+- 4D orientation (quaternion)
 
 ## 📊 Results
 
