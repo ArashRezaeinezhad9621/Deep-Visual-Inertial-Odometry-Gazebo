@@ -66,7 +66,12 @@ The proposed architecture combines spatial and temporal learning:
 </table>
 
 ### 🔹 Feature Extraction
-- Pretrained VGG16 used to extract visual features from consecutive frames
+- Pretrained VGG16 used to extract visual features from consecutive frames  
+<table align="center">
+  <tr>
+    <td><img src="Images/Convolutional_Layer.png" width="750"/></td>
+  </tr>
+</table>  
 ### 🔹 Motion Representation
 - Features from two frames are combined to capture motion dynamics
 ### 🔹 Temporal Modeling
